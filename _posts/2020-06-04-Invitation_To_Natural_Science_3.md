@@ -1,6 +1,6 @@
 ---
-title: Invitation to Natural Science #3 Assignment
-description: #3
+title: Invitation to Natural Science #3
+description: Invitation to Natural Science #3 assignment
 categories: 
  - 2020春
  - Introduction
