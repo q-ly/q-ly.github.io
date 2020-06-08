@@ -1,6 +1,6 @@
 ---
-title: Invitation to Natural Science #3
-description: Invitation to Natural Science #3 assignment
+title: INS #3 essay
+description: Invitation to Natural Science
 categories: 
  - 2020春
  - Introduction
