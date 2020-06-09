@@ -31,33 +31,34 @@ complete & transitive & finite -> utility function （不唯一；没有数量�
 ![](https://wx3.sinaimg.cn/mw1024/9296b5a5gy1gfltgjd45gj20u012rjzh.jpg)
 ![](https://wx3.sinaimg.in/mw690/9296b5a5gy1gfltgjuchwj20u012r46y.jpg)
 
-* perfect substitute
+perfect substitute
 
-U = ax1+bx2，斜率为负的直线，MRS = -a/b
+* U = ax1+bx2，斜率为负的直线，MRS = -a/b
 
-* perfect complement
+perfect complement
 
-U = min{ax1, bx2}
+* U = min{ax1, bx2}
 
-* bad
+bad
 
-U = ax1+bx2, 斜率为正的直线，x1↑U↑, x2↑U↓，x1 good x2 bad
+* U = ax1+bx2, 斜率为正的直线，x1↑U↑, x2↑U↓，x1 good x2 bad
 
-* neutral
+neutral
 
-U = c, 只与x1有关
+* U = c, 只与x1有关
 
-* Quasi-linear
+Quasi-linear
 
-U = v(x1)+x2
+* U = v(x1)+x2
 
 x1 non-linear, x2 linear
 
-* Cobb-Douglas
+Cobb-Douglas
 
-U = x1^c+x2^d
+* U = x1^c+x2^d
 
 > MRS = ∆x2/∆x1，愿意用多少2换1
+
 > willing to lose，必为负
 
 monotonic: 越多越好
