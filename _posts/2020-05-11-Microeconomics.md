@@ -18,7 +18,7 @@ Weak Axiom of Revealed Preferences: choose A over B = have a preference for A (�
 Strict Preference: ≻    
 
 ### properties
-complete & transitive -> utility function （不唯一；没有数量关系，只有大小关系）
+complete & transitive & finite -> utility function （不唯一；没有数量关系，只有大小关系）
 
 1. U(xi ) > U(xj ) if and only if xi ≻ xj (strongly prefer)
 
