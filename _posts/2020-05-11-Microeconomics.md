@@ -117,13 +117,13 @@ maximizing U(x1,x2), s.t. p1x1 + p2x2 ≤ m
 
 * demand curve for x1: y轴p1，x轴x1，一种商品需求量随其价格的变化（从p1-price offer curve来）
 
-** inverse curve: y轴x1，x轴p1，价格随需求量的变化（为了让消费者消费这个量必须具有的价格），反需求函数
+* * inverse curve: y轴x1，x轴p1，价格随需求量的变化（为了让消费者消费这个量必须具有的价格），反需求函数
 
-*** Homotheticity
+* ** Homotheticity
 
-𝑼(𝒌𝒙𝟏,𝒌𝒙𝟐) = 𝐤𝑼(𝒙𝟏,𝒙𝟐)
+* *𝑼(𝒌𝒙𝟏,𝒌𝒙𝟐) = 𝐤𝑼(𝒙𝟏,𝒙𝟐)
 
-Income offer curve & Engel curve = straight line
+* *Income offer curve & Engel curve = straight line
     
 ### substitutes
 
