@@ -96,3 +96,17 @@ Marginal Rate of Substitution of good y with respect to good x: MRSy,x = - MUx/M
 -> marginal utility with respect (1) to x = 3 (2) to y = 2
 
 -> MRS of y with respect to x = -3/2
+
+### L3, C5 Choice
+## optimal
+
+the bundle in budget set that on the highest indifference curve
+
+well behaved: tangency => optimal
+
+R1. MRS = - ratio of prices = - MUx/MUy = - px/py 
+
+* slope of the indifference curve = slope of the budget curve -> tangent
+
+R2. MUx/px = MUy/py
+
