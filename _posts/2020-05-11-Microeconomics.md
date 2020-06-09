@@ -41,7 +41,9 @@ perfect complement
 
 bad
 
-* U = ax1+bx2, 斜率为正的直线，x1↑U↑, x2↑U↓，x1 good x2 bad
+* U = ax1+bx2, 斜率为正的直线
+
+* x1↑U↑, x2↑U↓，x1 good x2 bad
 
 neutral
 
@@ -51,7 +53,7 @@ Quasi-linear
 
 * U = v(x1)+x2
 
-x1 non-linear, x2 linear
+* x1 non-linear, x2 linear
 
 Cobb-Douglas
 
@@ -84,3 +86,13 @@ Marginal Utility with respect to good x: MUx = ∆U/∆x (∂U/∂x)
 Marginal Rate of Substitution of good y with respect to good x: MRSy,x = - MUx/MUy
 
 (∆U ≈ MUx∆x+MUy∆y)
+
+### Exercise
+
+1. consuming 2x = consuming 3y
+
+-> u = 3x + 2y
+
+-> marginal utility with respect (1) to x = 3 (2) to y = 2
+
+-> MRS of y with respect to x = -3/2
