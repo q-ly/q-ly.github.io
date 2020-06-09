@@ -1,20 +1,11 @@
 ---
 title: Microeconomics A
-description: 
+description: reflection
 categories: 
- - Economics
- - 2020春
+- Economics
+- 2020春
 tags:
- - Microeconomics
----
----
-title: Microeconomics A
-description: 
-categories: 
- - Economics
- - 2020春
- tags:
-  - Microeconomics
+- Microeconomics
 ---
 
 ## L1, C3 Preferences
