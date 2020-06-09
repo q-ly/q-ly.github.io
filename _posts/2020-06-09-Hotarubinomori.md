@@ -1,6 +1,6 @@
 ---
 title: 下一个夏天
-description:评「 蛍火の杜へ」
+description: 评「 蛍火の杜へ」
 categories: 
 - 艺术评论
 - 电影
