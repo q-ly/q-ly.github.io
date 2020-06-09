@@ -121,9 +121,9 @@ maximizing U(x1,x2), s.t. p1x1 + p2x2 ≤ m
 
 * ** Homotheticity
 
-* *𝑼(𝒌𝒙𝟏,𝒌𝒙𝟐) = 𝐤𝑼(𝒙𝟏,𝒙𝟐)
+* *** 𝑼(𝒌𝒙𝟏,𝒌𝒙𝟐) = 𝐤𝑼(𝒙𝟏,𝒙𝟐)
 
-* *Income offer curve & Engel curve = straight line
+* *** Income offer curve & Engel curve = straight line
     
 ### substitutes
 
@@ -136,7 +136,7 @@ U = ax1 + bx2，斜率为负的直线，MRS = -a/b
 
 = m/p1 (p1 < p2)
 
-Homotheticity
+Homothetic
 
 ### complements
 
@@ -148,7 +148,7 @@ U = min {ax1, bx2}
 
 * p1 → +∞, x1 = x2 → 0
 
-Homotheticity
+Homothetic
 
 ### Cobb-Douglas
 
@@ -158,17 +158,8 @@ U = x1^a + x2^(1-a)
 
 {x2 = (1-a)m/p2
 
-Homotheticity
+Homothetic
 
-### bad
-
-* U = ax1+bx2, 斜率为正的直线
-
-* x1↑U↑, x2↑U↓，x1 good, x2 bad
-
-### neutral
-
-* U = c, 只与x1有关
 
 ### Quasi-linear
 
@@ -176,6 +167,27 @@ Homotheticity
 
 * x1 non-linear, x2 linear
 
+Not homothetic
 
+### bad
 
+* U = ax1+bx2, 斜率为正的直线
+
+* x1+ U+, x2+ U-，x1 good, x2 bad
+
+### neutral
+
+* U = c, 只与x1有关
+
+### income effects
+
+normal: income+ demand+ (Engel's k > 0)
+
+inferior: income+ demand- (Engel's k < 0)
+
+### price effects
+
+ordinary: price- demand+ (demand's k < 0)
+
+giffen: price- demand- (demand's k > 0)
 
