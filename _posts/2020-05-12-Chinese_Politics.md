@@ -1,5 +1,5 @@
 ---
-title: 中国政治作业
+title: 中国政治
 description: 读书报告
 categories: 
  - 2020春
