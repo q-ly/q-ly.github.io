@@ -185,9 +185,23 @@ normal: income+ demand+ (Engel's k > 0)
 
 inferior: income+ demand- (Engel's k < 0)
 
-### price effects
+### price effects  
+ordinary: price- demand+ (demand's k < 0)  
+giffen: price- demand- (demand's k > 0)    
+### cross-price effects  
+substitute: p2+ x1+  
+* x1  
+= 0 (p1 > p2)  
+∈ [0, m/p1] (p1 = p2) 
+= m/p1 (p1 < p2)  
+* ∆x1/∆p2 > 0
 
-ordinary: price- demand+ (demand's k < 0)
 
-giffen: price- demand- (demand's k > 0)
+complement: p2+ x1-  
+* x1 = m/(p1+p2)  
+* ∆x1/∆p2 = -m/(p1+p2)^2 < 0  
+* *p1=0 -> x1 = y/p2 （必按组消费）
 
+neither:  
+* x1 = am/p1  
+* ∆x1/∆p2 = 0  
