@@ -34,17 +34,17 @@ complete & transitive & finite -> utility function （不唯一；没有数量�
 
 perfect substitute
 
-* U = ax1+bx2，斜率为负的直线，MRS = -a/b
+* U = ax1 + bx2，斜率为负的直线，MRS = -a/b
 
 perfect complement
 
-* U = min{ax1, bx2}
+* U = min {ax1, bx2}
 
 bad
 
 * U = ax1+bx2, 斜率为正的直线
 
-* x1↑U↑, x2↑U↓，x1 good x2 bad
+* x1↑U↑, x2↑U↓，x1 good, x2 bad
 
 neutral
 
@@ -52,13 +52,13 @@ neutral
 
 Quasi-linear
 
-* U = v(x1)+x2
+* U = v(x1) + x2
 
 * x1 non-linear, x2 linear
 
 Cobb-Douglas
 
-* U = x1^c+x2^d
+* U = x1^c + x2^d
 
 > 【MRS = ∆x2/∆x1，愿意用多少2换1】
 
@@ -90,16 +90,16 @@ Marginal Utility with respect to good x: MUx = ∆U/∆x (∂U/∂x)
 
 ### Exercise
 
-1. consuming 2x1 = consuming 3x2
+consuming 2x1 = consuming 3x2
 
--> u = 3x1 + 2x2
+* u = 3x1 + 2x2
 
--> marginal utility with respect (1) to x1 = 3 (2) to x2 = 2
+* marginal utility with respect (1) to x1 = 3 (2) to x2 = 2
 
--> MRS of x2 with respect to x1 = -3/2
+* MRS of x2 with respect to x1 = -3/2
 
-### L3, C5 Choice
-## optimal
+## L3, C5 Choice
+### optimal
 
 the bundle in budget set that on the highest indifference curve
 
@@ -114,8 +114,19 @@ R2. MUx1/px1 = MUx2/px2
 联立方程组：
 
 {p1x1 + p2x2 ≤ m
+
 {MRS = - p1/p2
 
-###L4, C6 Demand
+## L4, C6 Demand
 
-MRS = - MUx/MUy = 
+maximizing p1x1 + p2x2 ≤ m
+
+{MRS = - ratio of prices = - px1/px2 = - MUx1/MUx2
+
+{MUx = ∆U/∆x
+
+=> p1x1 = p2x2. x1 = (p2/p1)x2.
+
+{x1 = m/2p1
+{x2 = m/2p2
+
