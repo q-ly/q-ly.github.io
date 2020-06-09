@@ -1,4 +1,4 @@
-s---
+---
 title: Microeconomics A
 description: reflection
 categories: 
