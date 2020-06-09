@@ -32,37 +32,6 @@ complete & transitive & finite -> utility function （不唯一；没有数量�
 ![](https://wx3.sinaimg.cn/mw1024/9296b5a5gy1gfltgjd45gj20u012rjzh.jpg)
 ![](https://wx3.sinaimg.in/mw690/9296b5a5gy1gfltgjuchwj20u012r46y.jpg)
 
-perfect substitute
-
-* U = ax1 + bx2，斜率为负的直线，MRS = -a/b
-
-perfect complement
-
-* U = min {ax1, bx2}
-
-bad
-
-* U = ax1+bx2, 斜率为正的直线
-
-* x1↑U↑, x2↑U↓，x1 good, x2 bad
-
-neutral
-
-* U = c, 只与x1有关
-
-Quasi-linear
-
-* U = v(x1) + x2
-
-* x1 non-linear, x2 linear
-
-Cobb-Douglas
-
-* U = x1^c + x2^d
-
-> 【MRS = ∆x2/∆x1，愿意用多少2换1】
-
-> willing to lose，必为负
 
 monotonic: 越多越好
 
@@ -87,6 +56,11 @@ Marginal Utility with respect to good x: MUx = ∆U/∆x (∂U/∂x)
 【Marginal Rate of Substitution of good x2 with respect to good x1: MRSx2, x1 = - MUx1/MUx2】
 
 (∆U ≈ MUx1∆x1+MUx2∆x2)
+
+> 【MRS = ∆x2/∆x1，愿意用多少2换1】
+
+> willing to lose，必为负
+
 
 ### Exercise
 
@@ -135,15 +109,25 @@ maximizing U(x1,x2), s.t. p1x1 + p2x2 ≤ m
 
 {x2 = m/2p2
 
-* p1-price offer curve: x轴x1，y轴x2，只有p1变，两种商品需求量随一种价格的变化
+* income offer curve: y轴x2，x轴x1，只有m变，两种商品需求量随收入的变化
 
-* demand curve for x1: x轴x1，y轴p1，一种商品需求量随其价格的变化（从p1-price offer curve来）
+* Engel curve: y轴m，x轴x1，一种商品需求量随收入的变化
 
-* inverse curve: x轴p1，y轴x1，价格随需求量的变化（为了让消费者消费这个量必须具有的价格），反需求函数
+* p1-price offer curve: y轴x2，x轴x1，只有p1变，两种商品需求量随一种价格的变化
 
-* income offer curve: x轴x1，y轴x2，两种商品需求量随收入的变化
+* demand curve for x1: y轴p1，x轴x1，一种商品需求量随其价格的变化（从p1-price offer curve来）
+
+** inverse curve: y轴x1，x轴p1，价格随需求量的变化（为了让消费者消费这个量必须具有的价格），反需求函数
+
+*** Homotheticity
+
+𝑼(𝒌𝒙𝟏,𝒌𝒙𝟐) = 𝐤𝑼(𝒙𝟏,𝒙𝟐)
+
+Income offer curve & Engel curve = straight line
     
 ### substitutes
+
+U = ax1 + bx2，斜率为负的直线，MRS = -a/b
 
 {x1 
 = 0 (p1 > p2);
@@ -152,9 +136,11 @@ maximizing U(x1,x2), s.t. p1x1 + p2x2 ≤ m
 
 = m/p1 (p1 < p2)
 
-
+Homotheticity
 
 ### complements
+
+U = min {ax1, bx2}
 
 {x1 = x2 = m/(p1+p2)
 
@@ -162,10 +148,34 @@ maximizing U(x1,x2), s.t. p1x1 + p2x2 ≤ m
 
 * p1 → +∞, x1 = x2 → 0
 
+Homotheticity
 
 ### Cobb-Douglas
+
+U = x1^a + x2^(1-a)
 
 {x1 = am/p1
 
 {x2 = (1-a)m/p2
+
+Homotheticity
+
+### bad
+
+* U = ax1+bx2, 斜率为正的直线
+
+* x1↑U↑, x2↑U↓，x1 good, x2 bad
+
+### neutral
+
+* U = c, 只与x1有关
+
+### Quasi-linear
+
+* U = v(x1) + x2
+
+* x1 non-linear, x2 linear
+
+
+
 
