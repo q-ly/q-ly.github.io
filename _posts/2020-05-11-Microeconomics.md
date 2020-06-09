@@ -28,7 +28,8 @@ complete & transitive -> utility function （不唯一；没有数量关系，�
 
 不相交
 
-![avatar](data:image/jpg;base64,L1VzZXJzL3FseS9EZXNrdG9wL++8jG1pY3JvLTYuanBn)
+(https://wx3.sinaimg.cn/mw690/9296b5a5gy1gfls88brqij20u012r7bt.jpg)
+(https://wx4.sinaimg.cn/mw690/9296b5a5gy1gfls893u5nj20u012rahv.jpg)
 
 monotonic: 越多越好
 
