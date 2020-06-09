@@ -31,9 +31,11 @@ complete & transitive -> utility function （不唯一；没有数量关系，�
 ![](https://wx3.sinaimg.cn/mw690/9296b5a5gy1gfls88brqij20u012r7bt.jpg)
 ![](https://wx4.sinaimg.cn/mw690/9296b5a5gy1gfls893u5nj20u012rahv.jpg)
 
+> MRS: willing to lose，必为负
+
 monotonic: 越多越好
 
-convex: 凸面，反比例函数，中间值优于极值
+convex: 直线/凸面(strictly convex)，反比例函数，中间值优于极值
 
 concave: 凹面，圆，极值优于中间值
 
