@@ -12,8 +12,9 @@ tags:
 
 ### relations
 
-Weak Axiom of Revealed Preferences: choose A over B = have a preference for A (􏰀􏰀≿)
-		没有可乘性；一人一事
+Weak Axiom of Revealed Preferences
+* choose A over B = have a preference for A (􏰀􏰀≿)
+* 没有可乘性；一人一事
 		
 Strict Preference: ≻    
 
@@ -59,7 +60,7 @@ Cobb-Douglas
 
 * U = x1^c+x2^d
 
-> MRS = ∆x2/∆x1，愿意用多少2换1
+> 【MRS = ∆x2/∆x1，愿意用多少2换1】
 
 > willing to lose，必为负
 
@@ -83,19 +84,19 @@ numeraire good: (p1/p2)x1 + x2 = m/p2
 
 Marginal Utility with respect to good x: MUx = ∆U/∆x (∂U/∂x)
 
-Marginal Rate of Substitution of good y with respect to good x: MRSy,x = - MUx/MUy
+【Marginal Rate of Substitution of good x2 with respect to good x1: MRSx2, x1 = - MUx1/MUx2】
 
-(∆U ≈ MUx∆x+MUy∆y)
+(∆U ≈ MUx1∆x1+MUx2∆x2)
 
 ### Exercise
 
-1. consuming 2x = consuming 3y
+1. consuming 2x1 = consuming 3x2
 
--> u = 3x + 2y
+-> u = 3x1 + 2x2
 
--> marginal utility with respect (1) to x = 3 (2) to y = 2
+-> marginal utility with respect (1) to x1 = 3 (2) to x2 = 2
 
--> MRS of y with respect to x = -3/2
+-> MRS of x2 with respect to x1 = -3/2
 
 ### L3, C5 Choice
 ## optimal
@@ -104,9 +105,17 @@ the bundle in budget set that on the highest indifference curve
 
 well behaved: tangency => optimal
 
-R1. MRS = - ratio of prices = - MUx/MUy = - px/py 
+R1. 【MRS = - ratio of prices = - MUx1/MUx2 = - px1/px2】  
 
 * slope of the indifference curve = slope of the budget curve -> tangent
 
-R2. MUx/px = MUy/py
+R2. MUx1/px1 = MUx2/px2
 
+联立方程组：
+
+{p1x1 + p2x2 ≤ m
+{MRS = - p1/p2
+
+###L4, C6 Demand
+
+MRS = - MUx/MUy = 
