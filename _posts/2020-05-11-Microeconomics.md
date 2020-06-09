@@ -8,7 +8,7 @@ tags:
 - Microeconomics
 ---
 
-## L1&L2, C3 Preferences
+## L1&L2, C3 Preferences & C4 Utility
 
 ### relations
 
