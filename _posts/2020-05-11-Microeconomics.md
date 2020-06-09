@@ -1,4 +1,4 @@
----
+s---
 title: Microeconomics A
 description: reflection
 categories: 
@@ -28,8 +28,8 @@ complete & transitive & finite -> utility function （不唯一；没有数量�
 
 不相交
 
-![](https://wx3.sinaimg.cn/mw690/9296b5a5gy1gfltgjd45gj20u012rjzh.jpg)
-![](https://wx3.sinaimg.cn/mw690/9296b5a5gy1gfltgjuchwj20u012r46y.jpg)
+![](https://wx3.sinaimg.in/mw690/9296b5a5gy1gfltgjd45gj20u012rjzh.jpg)
+![](https://wx3.sinaimg.in/mw690/9296b5a5gy1gfltgjuchwj20u012r46y.jpg)
 
 > MRS: willing to lose，必为负
 
