@@ -192,16 +192,16 @@ giffen: price- demand- (demand's k > 0)
 substitute: p2+ x1+  
 * x1  
 = 0 (p1 > p2)  
-∈ [0, m/p1] (p1 = p2) 
+∈ [0, m/p1] (p1 = p2)  
 = m/p1 (p1 < p2)  
 * ∆x1/∆p2 > 0
 
 
-complement: p2+ x1-  
+complement: p2+ x1-
 * x1 = m/(p1+p2)  
-* ∆x1/∆p2 = -m/(p1+p2)^2 < 0  
-* *p1=0 -> x1 = y/p2 （必按组消费）
+∆x1/∆p2 = -m/(p1+p2)^2 < 0  
+* p1=0 -> x1 = y/p2 （必按组消费）
 
-neither:  
+neither:
 * x1 = am/p1  
-* ∆x1/∆p2 = 0  
+∆x1/∆p2 = 0  
