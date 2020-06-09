@@ -105,11 +105,11 @@ the bundle in budget set that on the highest indifference curve
 
 well behaved: tangency => optimal
 
-R1. 【MRS = - ratio of prices = - MUx1/MUx2 = - px1/px2】  
+R1. 【MRS = - ratio of prices = - MUx1/MUx2 = - p1/p2】  
 
 * slope of the indifference curve = slope of the budget curve -> tangent
 
-R2. MUx1/px1 = MUx2/px2
+R2. MUx1/p1 = MUx2/p2
 
 联立方程组：
 
@@ -119,9 +119,11 @@ R2. MUx1/px1 = MUx2/px2
 
 ## L4, C6 Demand
 
-maximizing p1x1 + p2x2 ≤ m
+### basic
 
-{MRS = - ratio of prices = - px1/px2 = - MUx1/MUx2
+maximizing U(x1,x2), s.t. p1x1 + p2x2 ≤ m
+
+{MRS = - ratio of prices = - p1/p2 = - MUx1/MUx2
 
 {MUx = ∆U/∆x
 
@@ -131,3 +133,12 @@ maximizing p1x1 + p2x2 ≤ m
 
 {x2 = m/2p2
 
+* p1 - price offer curve: 只有p1变，x轴x1，y轴x2
+
+* demand curve for x1: x轴x1，y轴p1
+
+### Cobb-Douglas
+
+{x1 = am/p1
+
+{x2 = (1-a)m/p2
