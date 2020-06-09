@@ -128,5 +128,6 @@ maximizing p1x1 + p2x2 ≤ m
 => p1x1 = p2x2. x1 = (p2/p1)x2.
 
 {x1 = m/2p1
+
 {x2 = m/2p2
 
