@@ -29,10 +29,6 @@ complete & transitive & finite -> utility function （不唯一；没有数量�
 
 不相交
 
-![](https://wx3.sinaimg.cn/mw1024/9296b5a5gy1gfltgjd45gj20u012rjzh.jpg)
-![](https://wx3.sinaimg.in/mw690/9296b5a5gy1gfltgjuchwj20u012r46y.jpg)
-
-
 monotonic: 越多越好
 
 convex: 直线/凸面(strictly convex)，反比例函数，中间值优于极值
@@ -119,11 +115,11 @@ maximizing U(x1,x2), s.t. p1x1 + p2x2 ≤ m
 
 * * inverse curve: y轴x1，x轴p1，价格随需求量的变化（为了让消费者消费这个量必须具有的价格），反需求函数
 
-* ** Homotheticity
+* * * Homotheticity
 
-* *** 𝑼(𝒌𝒙𝟏,𝒌𝒙𝟐) = 𝐤𝑼(𝒙𝟏,𝒙𝟐)
+* * * 𝑼(𝒌𝒙𝟏,𝒌𝒙𝟐) = 𝐤𝑼(𝒙𝟏,𝒙𝟐)
 
-* *** Income offer curve & Engel curve = straight line
+* * * Income offer curve & Engel curve = straight line
     
 ### substitutes
 
@@ -179,11 +175,16 @@ Not homothetic
 
 * U = c, 只与x1有关
 
-### income effects
-
-normal: income+ demand+ (Engel's k > 0)
-
-inferior: income+ demand- (Engel's k < 0)
+### income effects  
+normal: income+ demand+ (Engel's k > 0)  
+inferior: income+ demand- (Engel's k < 0)  
+求income effect&substitution effect：  
+1. MUx/MUy = px/py，得到x关于px表达式，代入原价，得到Initial bundle  
+2. 代入新价格，得到Final bundle  
+3. 用新价格寻找满足Uinitial的Decomposition bundle  
+Substitution = D - I  
+Income = F - D  
+Total = F - I  
 
 ### price effects  
 ordinary: price- demand+ (demand's k < 0)  
@@ -205,3 +206,14 @@ complement: p2+ x1-
 neither:
 * x1 = am/p1  
 ∆x1/∆p2 = 0  
+
+## C7 Revealed Preferences  
+### direct and indirect  
+direct: when A and B are affordable, choose A -> A ≻(D) B  
+indirect: A is not affordable when choosing B, B is not affordable when choosing C -> A ≻(D) B, B ≻(D) C -> A ≻(I) C  
+### Weak Axiom of Revealed Preference (WARP)  
+violate: 同时存在 A ≻(D) B, B ≻(D) A  
+### Strong Axiom of Revealed Preference (SARP)  
+violate: A ≻(D) B, B ≻(D) A; A ≻(I) B, B ≻(I) A  
+### price index  
+Index = $ \mathbf{p^\mathsf{t+1}}\ $Q / $ \mathbf{p^\mathsf{t}}\ $Q
