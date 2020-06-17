@@ -24,5 +24,9 @@ Money and technology were both enough, then labor became the new concern. In ind
 
 ## 05 06-10
 
+## 06 06-17
+From today’s lecture, not only I was reminded sexual discrimination in the four great philosophers’ opinions, but also the profound impact of Confucius on Asian culture. It was somehow a “tacit knowledge” that was never said or written that female was treated differently, inferior to men. Even in France who proclaim itself as a nation of freedom, women were not allowed to vote until 20th century, similar to Japan.  
+Here I have a small doubt about the cite of Confucius. According to my knowledge gained at schools in China, the sentence simply reveals three joyful things in life: one is reviewing, one is reunion with friends who lives faraway, and one is not being angry on someone who don’t know you. So, from this perspective, I don’t think Confucius regard reviewing knowledge as meeting an old friend.  
+However, the concept of tacit knowledge and explicit knowledge, is new to me. Tacit knowledge got spread through socialization, and became explicit knowledge from externalization; after combination, it was turned into systemic knowledge, and finally internalized to tacit knowledge again. In China, we also have similar saying of theory guides practice, and practice perfects theory. It’s interesting to see similar things described in different perspectives as reunion with a friend living faraway.  
 
 
